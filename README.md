@@ -21,7 +21,6 @@ Languages used: **C++** and **Python**
 | Hashing        | -    | -      | -    | 0     |
 | **Total**      | -    | -      | -    | **0** |
 
-> Update this table as you solve more problems!
 
 ---
 
@@ -55,7 +54,6 @@ e.g. 001_two_sum.cpp
 |---|---------|------------|-------|----------|
 | - | - | - | - | - |
 
-> This section updates as solutions are added.
 
 ---
 
