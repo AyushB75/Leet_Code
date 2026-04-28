@@ -13,7 +13,8 @@
 using namespace std;
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
+    void setZeroes(vector<vector<int>>& matrix) 
+{
         int m = matrix.size(), n = matrix[0].size();
         bool firstRow = false, firstCol = false;
         for (int j = 0; j < n; j++)
