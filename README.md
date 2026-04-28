@@ -9,7 +9,7 @@ Languages used: **C++** and **Python**
 
 | Category       | Easy | Medium | Hard | Total |
 |----------------|------|--------|------|-------|
-| Arrays         | 1    | -      | -    | 1     |
+| Arrays         | 1    | 1      | -    | 2     |
 | Strings        | -    | -      | -    | 0     |
 | Linked Lists   | -    | -      | -    | 0     |
 | Trees          | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** and **Python**
 | Binary Search  | -    | -      | -    | 0     |
 | Stack & Queue  | -    | -      | -    | 0     |
 | Hashing        | -    | -      | -    | 0     |
-| **Total**      | 1    | -      | -    | **1** |
+| **Total**      | 1    | 1      | -    | **2** |
 
 
 ---
@@ -46,16 +46,6 @@ Each file is named as:
 e.g. 001_two_sum.cpp
 ```
 
----
-
-## 🔥 Recent Solutions
-
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|----------|
-| 1 | Two Sum | Easy | Arrays | 001_two_sum.cpp |
-
-
----
 
 ## 🛠️ How I Approach Problems
 
