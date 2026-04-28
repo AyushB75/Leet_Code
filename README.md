@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions — Ayush Bansal
+# 🧠 LeetCode Solutions 
 
 Consistent DSA practice across topics and difficulty levels.  
 Languages used: **C++** and **Python**
