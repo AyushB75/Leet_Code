@@ -4,6 +4,11 @@
 //
 // Problem: Given an integer numRows, return the first numRows of Pascal's
 // triangle. Each number is the sum of the two numbers directly above it.
+//
+// Approach: Build row by row. Each element (except edges) is the sum of
+// the two elements above it from the previous row. First and last of
+// every row are always 1.
+// Time: O(n^2) | Space: O(n^2)
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
