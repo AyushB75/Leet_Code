@@ -1,3 +1,9 @@
+// 118. Pascal's Triangle
+// Difficulty: Easy | Topic: Arrays | Language: C++
+// https://leetcode.com/problems/pascals-triangle/
+//
+// Problem: Given an integer numRows, return the first numRows of Pascal's
+// triangle. Each number is the sum of the two numbers directly above it.
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
