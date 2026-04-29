@@ -19,7 +19,7 @@ Languages used: **C++** and **Python**
 | Binary Search  | -    | -      | -    | 0     |
 | Stack & Queue  | -    | -      | -    | 0     |
 | Hashing        | -    | -      | -    | 0     |
-| **Total**      | 1    | 1      | -    | **2** |
+| **Total**      | 2    | 1      | -    | **3** |
 
 
 ---
