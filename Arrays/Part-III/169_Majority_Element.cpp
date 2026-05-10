@@ -14,20 +14,20 @@ using namespace std;
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int candidate = 0, count = 0;
+        int candidate = 0, c = 0;
         for (int num : nums)
         {
-            if (count == 0)
+            if (c == 0)
             {
                 candidate = num;
             }
             if (num == candidate)
             {
-                count++;
+                c++;
             }
             else
             {
-                count--;
+                c--;
             }
         }
         return candidate;
