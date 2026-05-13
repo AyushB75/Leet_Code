@@ -9,7 +9,7 @@ Languages used: **C++** and **Python**
 
 | Category       | Easy | Medium | Hard | Total |
 |----------------|------|--------|------|-------|
-| Arrays         | 5    | 13      | 1    | 19     |
+| Arrays         | 5    | 14      | 1    | 20     |
 | Strings        | -    | -      | -    | 0     |
 | Linked Lists   | -    | -      | -    | 0     |
 | Trees          | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** and **Python**
 | Binary Search  | -    | -      | -    | 0     |
 | Stack & Queue  | -    | -      | -    | 0     |
 | Hashing        | -    | -      | -    | 0     |
-| **Total**      | 5    | 13      | 1    | **19** |
+| **Total**      | 5    | 14      | 1    | **20** |
 
 
 ---
