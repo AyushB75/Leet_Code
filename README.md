@@ -9,7 +9,7 @@ Languages used: **C++** and **Python**
 
 | Category       | Easy | Medium | Hard | Total |
 |----------------|------|--------|------|-------|
-| Arrays         | 5    | 14      | 1    | 20     |
+| Arrays         | 5    | 15      | 1    | 21     |
 | Strings        | -    | -      | -    | 0     |
 | Linked Lists   | -    | -      | -    | 0     |
 | Trees          | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** and **Python**
 | Binary Search  | -    | -      | -    | 0     |
 | Stack & Queue  | -    | -      | -    | 0     |
 | Hashing        | -    | -      | -    | 0     |
-| **Total**      | 5    | 14      | 1    | **20** |
+| **Total**      | 5    | 15      | 1    | **21** |
 
 
 ---
@@ -38,12 +38,6 @@ Leet_Code/
 ├── Binary_Search/
 ├── Stack_and_Queue/
 └── Hashing/
-```
-
-Each file is named as:
-```
-<problem_number>_<problem_name>.<extension>
-e.g. 001_two_sum.cpp
 ```
 
 
