@@ -58,7 +58,6 @@ Leet_Code/
 ## 🔥 Streak & Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushB75&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushB75&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
