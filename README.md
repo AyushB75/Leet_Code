@@ -10,7 +10,7 @@ Languages used: **C++** · **Python**
 | Category            | Easy | Medium | Hard | Total |
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 3    | 6      | 1    | 10     |
+| Linked_Lists        | 3    | 7      | 1    | 11     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **8**| **23** | **2**| **33**|
+| **Total**           | **8**| **24** | **2**| **34**|
 
 ---
 
@@ -42,7 +42,10 @@ Leet_Code/
 ├── Stack_and_Queue/
 └── Hashing/
 ```
+## ✅ Last Solved
 
+> 🔗 **Flattening of Linked List** — `Hard` — Linked List Part-II  
+> Merged sorted child lists recursively using Floyd's merge approach.
 ---
 
 ## 🧩 How I Approach Problems
