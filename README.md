@@ -10,7 +10,7 @@ Languages used: **C++** · **Python**
 | Category            | Easy | Medium | Hard | Total |
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 3    | 7      | 1    | 11     |
+| Linked_Lists        | 3    | 7      | 3    | 13     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **8**| **24** | **2**| **34**|
+| **Total**           | **8**| **24** | **4**| **36**|
 
 ---
 
@@ -44,8 +44,8 @@ Leet_Code/
 ```
 ## ✅ Last Solved
 
-> 🔗 **Flattening of Linked List** — `Hard` — Linked List Part-II  
-> Merged sorted child lists recursively using Floyd's merge approach.
+> 🔗 **138. Copy List with Random Pointer** — `Hard` 
+> Insert cloned nodes between original nodes. Set random pointers for cloned nodes. Then separate the two lists.
 ---
 
 ## 🧩 How I Approach Problems
