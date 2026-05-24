@@ -10,7 +10,7 @@ Languages used: **C++** · **Python**
 | Category            | Easy | Medium | Hard | Total |
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 3    | 7      | 3    | 13     |
+| Linked_Lists        | 3    | 8      | 4    | 15     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **8**| **24** | **4**| **36**|
+| **Total**           | **8**| **25** | **5**| **38**|
 
 ---
 
@@ -44,8 +44,9 @@ Leet_Code/
 ```
 ## ✅ Last Solved
 
-> 🔗 **138. Copy List with Random Pointer** — `Hard` 
-> Insert cloned nodes between original nodes. Set random pointers for cloned nodes. Then separate the two lists.
+> 🔗 **42. Trapping Rain Water** — `Hard` 
+>  Approach: Two pointer approach.Track maxLeft and maxRight. Water at any index = min(maxLeft, maxRight) - height[i].
+             Move the pointer with smaller max value inward.
 ---
 
 ## 🧩 How I Approach Problems
