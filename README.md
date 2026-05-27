@@ -10,7 +10,7 @@ Languages used: **C++** · **Python**
 | Category            | Easy | Medium | Hard | Total |
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 3    | 8      | 4    | 15     |
+| Linked_Lists        | 5    | 8      | 4    | 17     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **8**| **25** | **5**| **38**|
+| **Total**           | **10**| **25** | **5**| **40**|
 
 ---
 
@@ -44,9 +44,9 @@ Leet_Code/
 ```
 ## ✅ Last Solved
 
-> 🔗 **42. Trapping Rain Water** — `Hard` 
->  Approach: Two pointer approach.Track maxLeft and maxRight. Water at any index = min(maxLeft, maxRight) - height[i].
-             Move the pointer with smaller max value inward.
+> 🔗 **485. Max Consecutive Ones** — `Easy` 
+>  Approach: Single pass. Track current count of 1's and update
+             max whenever current count exceeds it. Reset on 0.
 ---
 
 ## 🧩 How I Approach Problems
