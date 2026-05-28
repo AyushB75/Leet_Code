@@ -1,5 +1,4 @@
 # 🧠 LeetCode Solutions
-
 Consistent DSA practice following **Striver's SDE Sheet** — solving problems across topics and difficulty levels.  
 Languages used: **C++** · **Python**
 
@@ -10,7 +9,8 @@ Languages used: **C++** · **Python**
 | Category            | Easy | Medium | Hard | Total |
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 5    | 8      | 4    | 17     |
+| Linked_Lists        | 5    | 8      | 4    | 17    |
+| Greedy              | -    | 2      | -    | 2     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **10**| **25** | **5**| **40**|
+| **Total**           | **10**| **27** | **5**| **42**|
 
 ---
 
@@ -32,7 +32,10 @@ Leet_Code/
 │   ├── Part-II/      # Rotate Image, Merge Intervals, Find Duplicate...
 │   ├── Part-III/     # Majority Element, Unique Paths, Reverse Pairs...
 │   └── Part-IV/      # 4Sum, Longest Substring, XOR Subarrays...
-├── Linked_Lists/
+├── Linked_List/      # Reverse LL, Middle, Delete Nth, Add Two Numbers...
+├── Linked_List_2/    # Intersection, Cycle, Reverse K Group, Palindrome...
+├── Linked_List_and_Arrays/  # Rotate, Clone, 3Sum, Trapping Rain...
+├── Greedy/           # N Meetings, Min Platforms...
 ├── Strings/
 ├── Trees/
 ├── Graphs/
@@ -42,11 +45,14 @@ Leet_Code/
 ├── Stack_and_Queue/
 └── Hashing/
 ```
+
+---
+
 ## ✅ Last Solved
 
-> 🔗 **485. Max Consecutive Ones** — `Easy` 
->  Approach: Single pass. Track current count of 1's and update
-             max whenever current count exceeds it. Reset on 0.
+> 🟡 **Minimum Number of Platforms Required for a Railway Station** — `Medium` — Greedy  
+> Approach: Sort arrival and departure arrays. Use two pointers to track overlapping trains and find max platforms needed simultaneously.
+
 ---
 
 ## 🧩 How I Approach Problems
