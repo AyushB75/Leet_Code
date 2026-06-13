@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions
 Consistent DSA practice following **Striver's SDE Sheet** — solving problems across topics and difficulty levels.  
-Languages used: **C++** · **Python**
+Languages used: **C++** , **Python**
 
 ---
 
