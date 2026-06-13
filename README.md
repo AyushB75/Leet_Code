@@ -10,7 +10,7 @@ Languages used: **C++** · **Python**
 |---------------------|------|--------|------|-------|
 | Arrays              | 5    | 17     | 1    | 23    |
 | Linked_Lists        | 5    | 8      | 4    | 17    |
-| Greedy              | -    | 2      | -    | 2     |
+| Greedy              | -    | 4      | -    | 4     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +19,7 @@ Languages used: **C++** · **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **10**| **27** | **5**| **42**|
+| **Total**           | **10**| **29** | **5**| **44**|
 
 ---
 
@@ -35,7 +35,7 @@ Leet_Code/
 ├── Linked_List/      # Reverse LL, Middle, Delete Nth, Add Two Numbers...
 ├── Linked_List_2/    # Intersection, Cycle, Reverse K Group, Palindrome...
 ├── Linked_List_and_Arrays/  # Rotate, Clone, 3Sum, Trapping Rain...
-├── Greedy/           # N Meetings, Min Platforms...
+├── Greedy/           # N Meetings, Min Platforms, Job Sequencing, Fractional Knapsack...
 ├── Strings/
 ├── Trees/
 ├── Graphs/
@@ -50,8 +50,8 @@ Leet_Code/
 
 ## ✅ Last Solved
 
-> 🟡 **Minimum Number of Platforms Required for a Railway Station** — `Medium` — Greedy  
-> Approach: Sort arrival and departure arrays. Use two pointers to track overlapping trains and find max platforms needed simultaneously.
+> 🟡 **Fractional Knapsack** — `Medium` — Greedy  
+> Approach: Sort items by value/weight ratio in descending order. Greedily pick highest ratio items first. Take fraction of last item if it doesn't fit completely.
 
 ---
 
