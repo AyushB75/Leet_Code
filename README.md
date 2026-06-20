@@ -11,6 +11,7 @@ Languages used: **C++** , **Python**
 | Arrays              | 5    | 17     | 1    | 23    |
 | Linked_Lists        | 5    | 8      | 4    | 17    |
 | Greedy              | -    | 4      | -    | 4     |
+| Recursion           | -    | 3      | 1    | 4     |
 | Strings             | -    | -      | -    | 0     |
 | Trees               | -    | -      | -    | 0     |
 | Graphs              | -    | -      | -    | 0     |
@@ -19,7 +20,7 @@ Languages used: **C++** , **Python**
 | Binary Search       | -    | -      | -    | 0     |
 | Stack & Queue       | -    | -      | -    | 0     |
 | Hashing             | -    | -      | -    | 0     |
-| **Total**           | **10**| **29** | **5**| **44**|
+| **Total**           | **10**| **32** | **6**| **48**|
 
 ---
 
@@ -36,6 +37,7 @@ Leet_Code/
 ├── Linked_List_2/    # Intersection, Cycle, Reverse K Group, Palindrome...
 ├── Linked_List_and_Arrays/  # Rotate, Clone, 3Sum, Trapping Rain...
 ├── Greedy/           # N Meetings, Min Platforms, Job Sequencing, Fractional Knapsack...
+├── Recursion/        # Subset Sums, Subsets II, Combination Sum, Combination Sum II...
 ├── Strings/
 ├── Trees/
 ├── Graphs/
@@ -50,8 +52,8 @@ Leet_Code/
 
 ## ✅ Last Solved
 
-> 🟡 **Fractional Knapsack** — `Medium` — Greedy  
-> Approach: Sort items by value/weight ratio in descending order. Greedily pick highest ratio items first. Take fraction of last item if it doesn't fit completely.
+> 🟡 **Combination Sum II** — `Medium` — Recursion  
+> Approach: Sort array first. Backtrack and skip duplicates at the same recursion level to avoid duplicate combinations.
 
 ---
 
