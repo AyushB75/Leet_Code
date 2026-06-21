@@ -6,21 +6,22 @@ Languages used: **C++** , **Python**
 
 ## 📊 Progress Tracker
 
-| Category            | Easy | Medium | Hard | Total |
-|---------------------|------|--------|------|-------|
-| Arrays              | 5    | 17     | 1    | 23    |
-| Linked_Lists        | 5    | 8      | 4    | 17    |
-| Greedy              | -    | 4      | -    | 4     |
-| Recursion           | -    | 3      | 1    | 4     |
-| Strings             | -    | -      | -    | 0     |
-| Trees               | -    | -      | -    | 0     |
-| Graphs              | -    | -      | -    | 0     |
-| Dynamic Programming | -    | -      | -    | 0     |
-| Sorting             | -    | -      | -    | 0     |
-| Binary Search       | -    | -      | -    | 0     |
-| Stack & Queue       | -    | -      | -    | 0     |
-| Hashing             | -    | -      | -    | 0     |
-| **Total**           | **10**| **32** | **6**| **48**|
+| Category                  | Easy | Medium | Hard | Total |
+|----------------------------|------|--------|------|-------|
+| Arrays                     | 5    | 17     | 1    | 23    |
+| Linked_Lists                | 5    | 8      | 4    | 17    |
+| Greedy                      | -    | 4      | -    | 4     |
+| Recursion                   | -    | 4      | 2    | 6     |
+| Recursion_and_Backtracking  | -    | 1      | 2    | 3     |
+| Strings                     | -    | -      | -    | 0     |
+| Trees                       | -    | -      | -    | 0     |
+| Graphs                      | -    | -      | -    | 0     |
+| Dynamic Programming         | -    | -      | -    | 0     |
+| Sorting                     | -    | -      | -    | 0     |
+| Binary Search               | -    | -      | -    | 0     |
+| Stack & Queue               | -    | -      | -    | 0     |
+| Hashing                     | -    | -      | -    | 0     |
+| **Total**                   | **10**| **34** | **9**| **53**|
 
 ---
 
@@ -37,7 +38,8 @@ Leet_Code/
 ├── Linked_List_2/    # Intersection, Cycle, Reverse K Group, Palindrome...
 ├── Linked_List_and_Arrays/  # Rotate, Clone, 3Sum, Trapping Rain...
 ├── Greedy/           # N Meetings, Min Platforms, Job Sequencing, Fractional Knapsack...
-├── Recursion/        # Subset Sums, Subsets II, Combination Sum, Combination Sum II...
+├── Recursion/        # Subset Sums, Subsets II, Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence
+├── Recursion_and_Backtracking/  # Permutations, N Queens, Sudoku Solver...
 ├── Strings/
 ├── Trees/
 ├── Graphs/
@@ -52,8 +54,8 @@ Leet_Code/
 
 ## ✅ Last Solved
 
-> 🟡 **Combination Sum II** — `Medium` — Recursion  
-> Approach: Sort array first. Backtrack and skip duplicates at the same recursion level to avoid duplicate combinations.
+> 🔴 **37. Sudoku Solver** — `Hard` — Recursion and Backtracking  
+> Approach: Backtracking — try digits 1-9 in each empty cell, validate against row/column/box, backtrack if no digit works.
 
 ---
 
