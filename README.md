@@ -18,10 +18,10 @@ Languages used: **C++** , **Python**
 | Graphs                      | -    | -      | -    | 0     |
 | Dynamic Programming         | -    | -      | -    | 0     |
 | Sorting                     | -    | -      | -    | 0     |
-| Binary Search               | -    | -      | -    | 0     |
+| Binary Search               | -    | 1      | 1    | 2     |
 | Stack & Queue               | -    | -      | -    | 0     |
 | Hashing                     | -    | -      | -    | 0     |
-| **Total**                   | **10**| **35** | **11**| **56**|
+| **Total**                   | **10**| **36** | **12**| **58**|
 
 ---
 
@@ -40,7 +40,7 @@ Leet_Code/
 ├── Greedy/           # N Meetings, Min Platforms, Job Sequencing, Fractional Knapsack...
 ├── Recursion/        # Subset Sums, Subsets II, Combination Sum I & II, Palindrome Partitioning, Permutation Sequence
 ├── Recursion_and_Backtracking/  # Permutations, N Queens, Sudoku Solver, M Coloring, Rat in Maze, Word Break
-├── Binary_Search/
+├── Binary_Search/    # Nth Root of Integer, Matrix Median...
 ├── Strings/
 ├── Trees/
 ├── Graphs/
@@ -54,8 +54,8 @@ Leet_Code/
 
 ## ✅ Last Solved
 
-> 🟡 **Word Break (Print All Ways)** — `Medium` — Recursion and Backtracking  
-> Approach: Backtracking — at each index try every prefix, if it exists in the dictionary recurse on the remaining string.
+> 🔴 **Matrix Median** — `Hard` — Binary Search  
+> Approach: Binary search on value range. For each mid, count elements ≤ mid across all rows using upper_bound. Median is smallest value where count > (n×m)/2.
 
 ---
 
