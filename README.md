@@ -12,7 +12,7 @@ Languages used: **C++** , **Python**
 | Linked_Lists                | 5    | 8      | 4    | 17    |
 | Greedy                      | -    | 4      | -    | 4     |
 | Recursion                   | -    | 4      | 2    | 6     |
-| Recursion_and_Backtracking  | -    | 1      | 2    | 3     |
+| Recursion_and_Backtracking  | -    | 2      | 4    | 6     |
 | Strings                     | -    | -      | -    | 0     |
 | Trees                       | -    | -      | -    | 0     |
 | Graphs                      | -    | -      | -    | 0     |
@@ -21,7 +21,7 @@ Languages used: **C++** , **Python**
 | Binary Search               | -    | -      | -    | 0     |
 | Stack & Queue               | -    | -      | -    | 0     |
 | Hashing                     | -    | -      | -    | 0     |
-| **Total**                   | **10**| **34** | **9**| **53**|
+| **Total**                   | **10**| **35** | **11**| **56**|
 
 ---
 
@@ -38,14 +38,14 @@ Leet_Code/
 ├── Linked_List_2/    # Intersection, Cycle, Reverse K Group, Palindrome...
 ├── Linked_List_and_Arrays/  # Rotate, Clone, 3Sum, Trapping Rain...
 ├── Greedy/           # N Meetings, Min Platforms, Job Sequencing, Fractional Knapsack...
-├── Recursion/        # Subset Sums, Subsets II, Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence
-├── Recursion_and_Backtracking/  # Permutations, N Queens, Sudoku Solver...
+├── Recursion/        # Subset Sums, Subsets II, Combination Sum I & II, Palindrome Partitioning, Permutation Sequence
+├── Recursion_and_Backtracking/  # Permutations, N Queens, Sudoku Solver, M Coloring, Rat in Maze, Word Break
+├── Binary_Search/
 ├── Strings/
 ├── Trees/
 ├── Graphs/
 ├── Dynamic_Programming/
 ├── Sorting/
-├── Binary_Search/
 ├── Stack_and_Queue/
 └── Hashing/
 ```
@@ -54,8 +54,8 @@ Leet_Code/
 
 ## ✅ Last Solved
 
-> 🔴 **37. Sudoku Solver** — `Hard` — Recursion and Backtracking  
-> Approach: Backtracking — try digits 1-9 in each empty cell, validate against row/column/box, backtrack if no digit works.
+> 🟡 **Word Break (Print All Ways)** — `Medium` — Recursion and Backtracking  
+> Approach: Backtracking — at each index try every prefix, if it exists in the dictionary recurse on the remaining string.
 
 ---
 
