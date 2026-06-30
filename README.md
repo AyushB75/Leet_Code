@@ -65,7 +65,6 @@ Leet_Code/
 2. Start with brute force, then optimize step by step
 3. Implement in C++ (primary) or Python
 4. Test against edge cases before submitting
-5. Document time and space complexity in comments
 
 ---
 
